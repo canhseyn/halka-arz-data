@@ -3,19 +3,31 @@ name: Halka Arz Güncelle
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  test:
+  update:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v4
 
-      - name: Python sürümünü hazırla
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - name: Python çalışıyor mu?
+      - name: update.py çalıştır
+        run: python update.py
+
+      - name: Commit değişiklikler
         run: |
-          python --version
-          echo "Workflow başarılı"
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add halkaarz.json
+
+          if ! git diff --cached --quiet; then
+            git commit -m "halkaarz.json güncellendi"
+            git push
+          fi
