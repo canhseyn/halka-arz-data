@@ -1,13 +1,21 @@
+import json
+from pathlib import Path
+
 from .provider import Provider
-from datetime import datetime
 
 
 class ManualProvider(Provider):
 
     def get_ipos(self):
-        return {
-            "updated": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-            "active": [],
-            "upcoming": [],
-            "completed": []
-        }
+
+        file_path = Path("data/manual_ipos.json")
+
+        if not file_path.exists():
+            return {
+                "active": [],
+                "upcoming": [],
+                "completed": []
+            }
+
+        with open(file_path, "r", encoding="utf-8") as f:
+            return json.load(f)
