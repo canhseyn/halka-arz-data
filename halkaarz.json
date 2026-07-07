@@ -1,5 +1,10 @@
 {
-  "updated": "2026-07-07 19:14:50",
+  "updated": "2026-07-07 21:20:26",
+  "stats": {
+    "completed_count": 69,
+    "active_count": 0,
+    "upcoming_count": 1
+  },
   "active": [],
   "upcoming": [
     {
@@ -15,6 +20,567 @@
   ],
   "completed": [
     {
+      "company": "PASİFİK TEKNOLOJİ A.Ş.",
+      "code": "PATEK",
+      "price": 35.0,
+      "ratio": 20.15,
+      "method": "Sermaye artırımı ve ortak satışı",
+      "market": "Ana Pazar",
+      "broker": "Halk Yatırım Menkul Değerler A.Ş.",
+      "listing_date": "2024-02-13T00:00:00",
+      "year": 2024
+    },
+    {
+      "company": "BOR ŞEKER A.Ş.",
+      "code": "BORSK",
+      "price": 26.54,
+      "ratio": 29.17,
+      "method": "Sermaye artırımı ve ortak satışı",
+      "market": "Yıldız Pazar",
+      "broker": "Gedik Yatırım Menkul Değerler A.Ş.",
+      "listing_date": "2024-02-15T00:00:00",
+      "year": 2024
+    },
+    {
+      "company": "LİMAK DOĞU ANADOLU ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+      "code": "LMKDC",
+      "price": 16.2,
+      "ratio": 30.21,
+      "method": "Sermaye artırımı ve ortak satışı",
+      "market": "Yıldız Pazar",
+      "broker": "Halk Yatırım Menkul Değerler A.Ş.",
+      "listing_date": "2024-02-22T00:00:00",
+      "year": 2024
+    },
+    {
+      "company": "ALVES KABLO SANAYİ VE TİCARET A.Ş.",
+      "code": "ALVES",
+      "price": 19.45,
+      "ratio": 25.0,
+      "method": "Sermaye artırımı ",
+      "market": "Ana Pazar",
+      "broker": "İnfo Yatırım Menkul Değerler A.Ş.",
+      "listing_date": "2024-02-29T00:00:00",
+      "year": 2024
+    },
+    {
+      "company": "OBA MAKARNACILIK SANAYİ VE TİCARET A.Ş.",
+      "code": "OBAMS",
+      "price": 39.24,
+      "ratio": 20.09,
+      "method": "Sermaye artırımı ve ortak satışı",
+      "market": "Yıldız Pazar",
+      "broker": "Türkiye Kalkınma ve Yatırım Bankası A.Ş., Ünlü Menkul Değerler A.Ş., Ziraat Yatırım Menkul Değerler A.Ş., QNB Finans Yatırım Menkul Değerler A.Ş.",
+      "listing_date": "2024-03-01T00:00:00",
+      "year": 2024
+    },
+    {
+      "company": "ARTEMİS HALI A.Ş.",
+      "code": "ARTMS",
+      "price": 25.35,
+      "ratio": 28.57,
+      "method": "Sermaye artırımı ",
+      "market": "Ana Pazar",
+      "broker": "İnfo Yatırım Menkul Değerler A.Ş.",
+      "listing_date": "2024-03-04T00:00:00",
+      "year": 2024
+    },
+    {
+      "company": "MOGAN ENERJİ YATIRIM HOLDİNG A.Ş.",
+      "code": "MOGAN",
+      "price": 11.33,
+      "ratio": 10.76,
+      "method": "Sermaye artırımı ve ortak satışı",
+      "market": "Yıldız Pazar",
+      "broker": "\"Türkiye Sınai Kalkınma Bankası A.Ş., \nİş Yatırım Menkul Değerler A.Ş.\"",
+      "listing_date": "2024-03-07T00:00:00",
+      "year": 2024
+    },
+    {
+      "company": "ODİNE SOLUTİONS TEKNOLOJİ TİCARET VE SANAYİ A.Ş.",
+      "code": "ODINE",
+      "price": 30.0,
+      "ratio": 40.0,
+      "method": "Sermaye artırımı ve ortak satışı",
+      "market": "Yıldız Pazar",
+      "broker": "Türkiye Sınai Kalkınma Bankası A.Ş.",
+      "listing_date": "2024-03-21T00:00:00",
+      "year": 2024
+    },
+    {
+      "company": "IC ENTERRA YENİLENEBİLİR ENERJİ A.Ş.",
+      "code": "ENTRA",
+      "price": 10.0,
+      "ratio": 20.03,
+      "method": "Sermaye artırımı ve ortak satışı",
+      "market": "Yıldız Pazar",
+      "broker": "\"Ak Yatırım Menkul Değerler A.Ş.,\nİş Yatırım Menkul Değerler A.Ş.,\nZiraat Yatırım Menkul Değerler A.Ş.\"",
+      "listing_date": "2024-04-04T00:00:00",
+      "year": 2024
+    },
+    {
+      "company": "RÖNESANS GAYRİMENKUL YATIRIM A.Ş.",
+      "code": "RGYAS",
+      "price": 135.0,
+      "ratio": 10.08,
+      "method": "Sermaye artırımı ve ortak satışı",
+      "market": "Yıldız Pazar",
+      "broker": "\"Ak Yatırım Menkul Değerler A.Ş.\nDeniz Yatırım Menkul Kıymetler A.Ş.\"",
+      "listing_date": "2024-04-26T00:00:00",
+      "year": 2024
+    },
+    {
+      "company": "LİLA KAĞIT SANAYİ VE TİCARET A.Ş.",
+      "code": "LILAK",
+      "price": 37.39,
+      "ratio": 20.34,
+      "method": "Sermaye artırımı ve ortak satışı",
+      "market": "Yıldız Pazar",
+      "broker": "Ak Yatırım Menkul Değerler A.Ş., Yapı Kredi Yatırım Menkul Değerler A.Ş.",
+      "listing_date": "2024-05-09T00:00:00",
+      "year": 2024
+    },
+    {
+      "company": "KOTON MAĞAZACILIK TEKSTİL SANAYİ VE TİCARET A.Ş.",
+      "code": "KOTON",
+      "price": 30.5,
+      "ratio": 16.46,
+      "method": "Sermaye artırımı ve ortak satışı",
+      "market": "Yıldız Pazar",
+      "broker": "İş Yatırım Menkul Değerler A.Ş. ",
+      "listing_date": "2024-05-10T00:00:00",
+      "year": 2024
+    },
+    {
+      "company": "ALTINAY SAVUNMA TEKNOLOJİLERİ A.Ş.",
+      "code": "ALTNY",
+      "price": 32.0,
+      "ratio": 25.0,
+      "method": "Sermaye artırımı ve ortak satışı",
+      "market": "Yıldız Pazar",
+      "broker": "\"Türkiye Sınai Kalkınma Bankası A.Ş.\nYatırım Finansman Menkul Değerler A.Ş.\nZiraat Yatırım Menkul Değerler A.Ş.\"",
+      "listing_date": "2024-05-16T00:00:00",
+      "year": 2024
+    },
+    {
+      "company": "KOÇ METALURJİ A.Ş.",
+      "code": "KOCMT",
+      "price": 20.5,
+      "ratio": 27.47,
+      "method": "Sermaye artırımı ve ortak satışı",
+      "market": "Yıldız Pazar",
+      "broker": "A1 Capital Yatırım Menkul Değerler A.Ş. ",
+      "listing_date": "2024-05-17T00:00:00",
+      "year": 2024
+    },
+    {
+      "company": "HAREKET PROJE TAŞIMACILIĞI VE YÜK MÜHENDİSLİĞİ A.Ş.",
+      "code": "HRKET",
+      "price": 70.0,
+      "ratio": 20.83,
+      "method": "Sermaye artırımı ve ortak satışı",
+      "market": "Yıldız Pazar",
+      "broker": "\"Türkiye Sınai Kalkınma Bankası A.Ş.\nYatırım Finansman Menkul Değerler A.Ş.\n\"",
+      "listing_date": "2024-05-23T00:00:00",
+      "year": 2024
+    },
+    {
+      "company": "ONUR YÜKSEK TEKNOLOJİ A.Ş.",
+      "code": "ONRYT",
+      "price": 49.5,
+      "ratio": 31.4,
+      "method": "Sermaye artırımı ve ortak satışı",
+      "market": "Ana Pazar",
+      "broker": "Global Menkul Değerler A.Ş.",
+      "listing_date": "2024-05-28T00:00:00",
+      "year": 2024
+    },
+    {
+      "company": "ÖZYAŞAR TEL VE GALVANİZLEME SANAYİ A.Ş.",
+      "code": "OZYSR",
+      "price": 28.0,
+      "ratio": 30.23,
+      "method": "Sermaye artırımı ve ortak satışı",
+      "market": "Ana Pazar",
+      "broker": "QNB Finans Yatırım Menkul Kıymetler A.Ş.",
+      "listing_date": "2024-05-29T00:00:00",
+      "year": 2024
+    },
+    {
+      "company": "ALTINKILIÇ GIDA VE SÜT SANAYİ TİCARET A.Ş.",
+      "code": "ALKLC",
+      "price": 22.98,
+      "ratio": 30.25,
+      "method": "Sermaye artırımı",
+      "market": "Ana Pazar",
+      "broker": "Deniz Yatırım Menkul Kıymetler A.Ş.",
+      "listing_date": "2024-06-04T00:00:00",
+      "year": 2024
+    },
+    {
+      "company": "YİĞİT AKÜ MALZEMELERİ NAKLİYAT TURİZM İNŞAAT SANAYİ VE TİCARET A.Ş.",
+      "code": "YIGIT",
+      "price": 34.68,
+      "ratio": 24.96,
+      "method": "Sermaye artırımı ve ortak satışı",
+      "market": "Yıldız Pazar",
+      "broker": "\"Halk Yatırım Menkul Değerler A.Ş.\nİntegral Yatırım Menkul Değerler A.Ş.\"",
+      "listing_date": "2024-06-06T00:00:00",
+      "year": 2024
+    },
+    {
+      "company": "HOROZ LOJİSTİK KARGO HİZMETLERİ VE TİCARET A.Ş.",
+      "code": "HOROZ",
+      "price": 55.0,
+      "ratio": 27.19,
+      "method": "Sermaye artırımı ve ortak satışı",
+      "market": "Yıldız Pazar",
+      "broker": "QNB Finans Yatırım Menkul Kıymetler A.Ş.",
+      "listing_date": "2024-06-07T00:00:00",
+      "year": 2024
+    },
+    {
+      "company": "SEĞMEN KARDEŞLER GIDA ÜRETİM VE AMBALAJ SANAYİ A.Ş.",
+      "code": "SEGMN",
+      "price": 30.0,
+      "ratio": 19.55,
+      "method": "Sermaye artırımı",
+      "market": "Yıldız Pazar",
+      "broker": "Gedik Yatırım Menkul Değerler A.Ş.",
+      "listing_date": "2024-07-04T00:00:00",
+      "year": 2024
+    },
+    {
+      "company": "EFOR ÇAY SANAYİ TİCARET A.Ş.",
+      "code": "EFORC",
+      "price": 14.5,
+      "ratio": 24.79,
+      "method": "Sermaye artırımı ve ortak satışı",
+      "market": "Yıldız Pazar",
+      "broker": "\"Halk Yatırım Menkul Değerler A.Ş.\nİntegral Yatırım Menkul Değerler A.Ş.\"",
+      "listing_date": "2024-07-05T00:00:00",
+      "year": 2024
+    },
+    {
+      "company": "DCT TRADİNG DIŞ TİCARET A.Ş.",
+      "code": "DCTTR",
+      "price": 14.0,
+      "ratio": 28.85,
+      "method": "Sermaye artırımı ve ortak satışı",
+      "market": "Ana Pazar",
+      "broker": "Halk Yatırım Menkul Değerler A.Ş.",
+      "listing_date": "2024-07-31T00:00:00",
+      "year": 2024
+    },
+    {
+      "company": "BAHADIR KİMYA SANAYİ VE TİCARET A.Ş.",
+      "code": "BAHKM",
+      "price": 51.0,
+      "ratio": 29.09,
+      "method": "Sermaye artırımı ve ortak satışı",
+      "market": "Ana Pazar",
+      "broker": "Tera Yatırım Menkul Değerler A.Ş. ",
+      "listing_date": "2024-08-13T00:00:00",
+      "year": 2024
+    },
+    {
+      "company": "KIRAÇ GALVANİZ TELEKOMİNİKASYON METAL MAKİNE İNŞAAT ELEKTRİK SANAYİ VE TİCARET A.Ş.",
+      "code": "TCKRC",
+      "price": 24.0,
+      "ratio": 26.47,
+      "method": "Sermaye artırımı ",
+      "market": "Yıldız Pazar",
+      "broker": "İnfo Yatırım Menkul Değerler A.Ş. ",
+      "listing_date": "2024-08-21T00:00:00",
+      "year": 2024
+    },
+    {
+      "company": "GÜNDOĞDU GIDA SÜT ÜRÜNLERİ SANAYİ VE DIŞ TİCARET A.Ş.",
+      "code": "GUNDG",
+      "price": 35.0,
+      "ratio": 25.64,
+      "method": "Sermaye artırımı ve ortak satışı",
+      "market": "Ana Pazar",
+      "broker": "ALB Yatırım Menkul Değerler A.Ş. ",
+      "listing_date": "2024-08-22T00:00:00",
+      "year": 2024
+    },
+    {
+      "company": "AHES GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "code": "AHSGY",
+      "price": 25.2,
+      "ratio": 25.64,
+      "method": "Sermaye artırımı ",
+      "market": "Yıldız Pazar",
+      "broker": "Halk Yatırım Menkul Değerler A.Ş.",
+      "listing_date": "2024-08-29T00:00:00",
+      "year": 2024
+    },
+    {
+      "company": "ÖZATA DENİZCİLİK SANAYİ VE TİCARET A.Ş.",
+      "code": "OZATD",
+      "price": 105.0,
+      "ratio": 18.71,
+      "method": "Sermaye artırımı ve ortak satışı",
+      "market": "Yıldız Pazar",
+      "broker": "Vakıf Yatırım Menkul Değerler A.Ş. ",
+      "listing_date": "2024-09-05T00:00:00",
+      "year": 2024
+    },
+    {
+      "company": "CEM ZEYTİN A.Ş.",
+      "code": "CEMZY",
+      "price": 15.3,
+      "ratio": 24.88,
+      "method": "Sermaye artırımı",
+      "market": "Yıldız Pazar",
+      "broker": "Bulls Yatırım Menkul Değerler A.Ş.",
+      "listing_date": "2024-09-09T00:00:00",
+      "year": 2024
+    },
+    {
+      "company": "DURUKAN ŞEKERLEME SANAYİ VE TİCARET A.Ş.",
+      "code": "DURKN",
+      "price": 17.0,
+      "ratio": 32.08,
+      "method": "Sermaye artırımı ve ortak satışı",
+      "market": "Ana Pazar",
+      "broker": "Deniz Yatırım Menkul Kıymetler A.Ş.",
+      "listing_date": "2024-09-17T00:00:00",
+      "year": 2024
+    },
+    {
+      "company": "BİN ULAŞIM VE AKILLI ŞEHİR TEKNOLOJİLERİ A.Ş.",
+      "code": "BINBN",
+      "price": 91.85,
+      "ratio": 15.18,
+      "method": "Sermaye artırımı ve ortak satışı",
+      "market": "Yıldız Pazar",
+      "broker": "Bulls Yatırım Menkul Değerler A.Ş.",
+      "listing_date": "2024-10-09T00:00:00",
+      "year": 2024
+    },
+    {
+      "company": "ÇAĞDAŞ CAM SANAYİ VE TİCARET A.Ş.",
+      "code": "CGCAM",
+      "price": 20.0,
+      "ratio": 25.0,
+      "method": "Sermaye artırımı ve ortak satışı",
+      "market": "Ana Pazar",
+      "broker": "Deniz Yatırım Menkul Kıymetler A.Ş.",
+      "listing_date": "2024-12-17T00:00:00",
+      "year": 2024
+    },
+    {
+      "company": "SÜMER VARLIK YÖNETİM A.Ş.",
+      "code": "SMRVA",
+      "price": 22.0,
+      "ratio": 23.73,
+      "method": "Sermaye artırımı ve ortak satışı",
+      "market": "Ana Pazar",
+      "broker": "Şeker Yatırım Menkul Değerler A.Ş.",
+      "listing_date": "2024-12-18T00:00:00",
+      "year": 2024
+    },
+    {
+      "company": "ARMADA GIDA TİCARET SANAYİ A.Ş.",
+      "code": "ARMGD",
+      "price": 40.0,
+      "ratio": 20.83,
+      "method": "Sermaye artırımı ve ortak satışı",
+      "market": "Yıldız Pazar",
+      "broker": "Global Menkul Değerler A.Ş.",
+      "listing_date": "2025-01-03T00:00:00",
+      "year": 2025
+    },
+    {
+      "company": "EGEYAPI AVRUPA GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "code": "EGEGY",
+      "price": 15.0,
+      "ratio": 30.6,
+      "method": "Sermaye artırımı ve ortak satışı",
+      "market": "Ana Pazar",
+      "broker": "Halk Yatırım Menkul Değerler A.Ş.",
+      "listing_date": "2025-01-14T00:00:00",
+      "year": 2025
+    },
+    {
+      "company": "GÜLERMAK AĞIR SANAYİ İNŞAAT VE TAAHHÜT A.Ş.",
+      "code": "GLRMK",
+      "price": 125.0,
+      "ratio": 12.01,
+      "method": "Sermaye artırımı ve ortak satışı",
+      "market": "Yıldız Pazar",
+      "broker": "QNB Yatırım Menkul Değerler A.Ş.",
+      "listing_date": "2025-01-17T00:00:00",
+      "year": 2025
+    },
+    {
+      "company": "AKFEN İNŞAAT TURİZM VE TİCARET A.Ş.",
+      "code": "AKFIS",
+      "price": 38.7,
+      "ratio": 10.5,
+      "method": "Sermaye artırımı",
+      "market": "Yıldız Pazar",
+      "broker": "\"Tera Yatırım Menkul Değerler A.Ş. \nVakıf Yatırım Menkul Değerler A.Ş. \"",
+      "listing_date": "2025-01-23T00:00:00",
+      "year": 2025
+    },
+    {
+      "company": "MOPAŞ MARKETÇİLİK GIDA SANAYİ VE TİCARET A.Ş.",
+      "code": "MOPAS",
+      "price": 35.0,
+      "ratio": 20.96,
+      "method": "Sermaye artırımı ve ortak satışı",
+      "market": "Yıldız Pazar",
+      "broker": "İnfo Yatırım Menkul Değerler A.Ş.",
+      "listing_date": "2025-01-29T00:00:00",
+      "year": 2025
+    },
+    {
+      "company": "SERANİT GRANİT SERAMİK SANAYİ VE TİCARET A.Ş.",
+      "code": "SERNT",
+      "price": 12.0,
+      "ratio": 27.36,
+      "method": "Sermaye artırımı",
+      "market": "Ana Pazar",
+      "broker": "Halk Yatırım Menkul Değerler A.Ş.",
+      "listing_date": "2025-02-04T00:00:00",
+      "year": 2025
+    },
+    {
+      "company": "BİRLEŞİM GRUP ENERJİ YATIRIMLARI A.Ş.",
+      "code": "BIGEN",
+      "price": 12.14,
+      "ratio": 20.02,
+      "method": "Sermaye artırımı ve ortak satışı",
+      "market": "Ana Pazar",
+      "broker": "İnfo Yatırım Menkul Değerler A.Ş.",
+      "listing_date": "2025-02-05T00:00:00",
+      "year": 2025
+    },
+    {
+      "company": "DESTEK FİNANS FAKTORİNG A.Ş.",
+      "code": "DSTKF",
+      "price": 46.98,
+      "ratio": 25.0,
+      "method": "Sermaye artırımı",
+      "market": "Yıldız Pazar",
+      "broker": "Tera Yatırım Menkul Değerler A.Ş. ",
+      "listing_date": "2025-02-06T00:00:00",
+      "year": 2025
+    },
+    {
+      "company": "VİŞNE MADENCİLİK ÜRETİM SANAYİ VE TİCARET A.Ş.",
+      "code": "VSNMD",
+      "price": 37.44,
+      "ratio": 20.51,
+      "method": "Sermaye artırımı ve ortak satışı",
+      "market": "Ana Pazar",
+      "broker": "Tera Yatırım Menkul Değerler A.Ş. ",
+      "listing_date": "2025-02-11T00:00:00",
+      "year": 2025
+    },
+    {
+      "company": "ENDA ENERJİ HOLDİNG A.Ş.",
+      "code": "ENDAE",
+      "price": 17.44,
+      "ratio": 20.98,
+      "method": "Sermaye artırımı",
+      "market": "Ana Pazar",
+      "broker": "Tacirler Yatırım Menkul Değerler A.Ş.",
+      "listing_date": "2025-02-13T00:00:00",
+      "year": 2025
+    },
+    {
+      "company": "KALYON GÜNEŞ TEKNOLOJİLERİ ÜRETİM A.Ş.",
+      "code": "KLYPV",
+      "price": 70.3,
+      "ratio": 11.26,
+      "method": "Sermaye artırımı ve ortak satış",
+      "market": "Yıldız Pazar",
+      "broker": "\"İş Yatırım Menkul Değerler A.Ş.\nTürkiye Kalkınma ve Yatırım Bankası A.Ş.\"",
+      "listing_date": "2025-02-13T00:00:00",
+      "year": 2025
+    },
+    {
+      "company": "BALSU GIDA SANAYİ VE TİCARET A.Ş.",
+      "code": "BALSU",
+      "price": 17.57,
+      "ratio": 25.0,
+      "method": "Sermaye artırımı ve ortak satış",
+      "market": "Yıldız Pazar",
+      "broker": "\"Ziraat Yatırım Menkul Değerler A.Ş. \nİnfo Yatırım Menkul Değerler A.Ş.\"",
+      "listing_date": "2025-02-20T00:00:00",
+      "year": 2025
+    },
+    {
+      "company": "BULLS GİRİŞİM SERMAYESİ YATIRIM ORTAKLIĞI A.Ş.",
+      "code": "BULGS",
+      "price": 12.18,
+      "ratio": 27.05,
+      "method": "Sermaye artırımı ve ortak satış",
+      "market": "Ana Pazar",
+      "broker": "Bulls Yatırım Menkul Değerler A.Ş.",
+      "listing_date": "2025-02-21T00:00:00",
+      "year": 2025
+    },
+    {
+      "company": "DOF ROBOTİK SANAYİ A.Ş.",
+      "code": "DOFRB",
+      "price": 45.0,
+      "ratio": 29.03,
+      "method": "Sermaye artırımı ve ortak satış",
+      "market": "Yıldız Pazar",
+      "broker": "Yatırım Finansman Menkul Değerler A.Ş.",
+      "listing_date": "2025-09-11T00:00:00",
+      "year": 2025
+    },
+    {
+      "company": "ECOGREEN ENERJİ HOLDİNG A.Ş.",
+      "code": "ECOGR",
+      "price": 10.4,
+      "ratio": 20.37,
+      "method": "Sermaye Artırımı",
+      "market": "Ana Pazar",
+      "broker": "Gedik Yatırım Menkul Değerler A.Ş.",
+      "listing_date": "2025-11-03T00:00:00",
+      "year": 2025
+    },
+    {
+      "company": "VAKIF FAKTORİNG A.Ş.",
+      "code": "VAKFA",
+      "price": 14.2,
+      "ratio": 25.0,
+      "method": "Sermaye artırımı ve ortak satışı",
+      "market": "Yıldız Pazar",
+      "broker": "Vakıf Yatırım Menkul Değerler A.Ş.",
+      "listing_date": "2025-11-20T00:00:00",
+      "year": 2025
+    },
+    {
+      "company": "PASİFİK HOLDİNG A.Ş.",
+      "code": "PAHOL",
+      "price": 1.5,
+      "ratio": 20.0,
+      "method": "Sermaye artırımı ve ortak satışı",
+      "market": "Yıldız Pazar",
+      "broker": "\"Halk Yatırım Menkul Değerler A.Ş.\nİntegral Yatırım Menkul Değerler A.Ş.\"",
+      "listing_date": "2025-11-21T00:00:00",
+      "year": 2025
+    },
+    {
+      "company": "ZERAY GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "code": "ZERGY",
+      "price": 13.0,
+      "ratio": 25.05,
+      "method": "Sermaye artırımı ve ortak satışı",
+      "market": "Yıldız Pazar",
+      "broker": "\"Ziraat Yatırım Menkul Değerler A.Ş. \nİntegral Yatırım Menkul Değerler A.Ş.\"",
+      "listing_date": "2025-12-18T00:00:00",
+      "year": 2025
+    },
+    {
       "company": "ARF BIO YENİLENEBİLİR ENERJİ ÜRETİM A.Ş.",
       "code": "ARFYE",
       "price": 19.5,
@@ -22,7 +588,8 @@
       "method": "Sermaye artırımı ve ortak satışı",
       "market": "Ana Pazar",
       "broker": "\"A1 Capital Yatırım Menkul Değerler A.Ş.\nBulls Yatırım Menkul Değerler A.Ş.\"",
-      "listing_date": "2026-01-05T00:00:00"
+      "listing_date": "2026-01-05T00:00:00",
+      "year": 2026
     },
     {
       "company": "MEYSU GIDA SANAYİ VE TİCARET A.Ş.",
@@ -32,7 +599,8 @@
       "method": "Sermaye artırımı ve ortak satışı",
       "market": "Ana Pazar",
       "broker": "Alnus Yatırım Menkul Değerler A.Ş.",
-      "listing_date": "2026-01-13T00:00:00"
+      "listing_date": "2026-01-13T00:00:00",
+      "year": 2026
     },
     {
       "company": "FORMÜL PLASTİK VE METAL SANAYİ A.Ş.",
@@ -42,7 +610,8 @@
       "method": "Sermaye artırımı ve ortak satışı",
       "market": "Ana Pazar",
       "broker": "İntegral Yatırım Menkul Değerler A.Ş., Ziraat Yatırım Menkul Değerler A.Ş.",
-      "listing_date": "2026-01-15T00:00:00"
+      "listing_date": "2026-01-15T00:00:00",
+      "year": 2026
     },
     {
       "company": "Z GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
@@ -52,7 +621,8 @@
       "method": "Sermaye artırımı ve ortak satışı",
       "market": "Ana Pazar",
       "broker": "Vakıf Yatırım Menkul Değerler A.Ş.",
-      "listing_date": "2026-01-16T00:00:00"
+      "listing_date": "2026-01-16T00:00:00",
+      "year": 2026
     },
     {
       "company": "ÜÇAY MÜHENDİSLİK ENERJİ VE İKLİMLENDİRME TEKNOLOJİLERİ A.Ş.",
@@ -62,7 +632,8 @@
       "method": "Sermaye artırımı ve ortak satışı",
       "market": "Ana Pazar",
       "broker": "Kuveyt Türk Yatırım Menkul Değerler A.Ş. ",
-      "listing_date": "2026-01-22T00:00:00"
+      "listing_date": "2026-01-22T00:00:00",
+      "year": 2026
     },
     {
       "company": "NETCAD YAZILIM A.Ş.",
@@ -72,7 +643,8 @@
       "method": "Sermaye artırımı ve ortak satışı",
       "market": "Ana Pazar",
       "broker": "İnfo Yatırım Menkul Değerler A.Ş. ",
-      "listing_date": "2026-02-05T00:00:00"
+      "listing_date": "2026-02-05T00:00:00",
+      "year": 2026
     },
     {
       "company": "AKHAN UN FABRİKASI VE TARIM ÜRÜNLERİ GIDA SANAYİ TİCARET A.Ş.",
@@ -82,7 +654,8 @@
       "method": "Sermaye artırımı",
       "market": "Ana Pazar",
       "broker": "Halk Yatırım Menkul Değerler A.Ş. ",
-      "listing_date": "2026-02-06T00:00:00"
+      "listing_date": "2026-02-06T00:00:00",
+      "year": 2026
     },
     {
       "company": "BEST BRANDS GRUP ENERJİ YATIRIM A.Ş.",
@@ -92,7 +665,8 @@
       "method": "Sermaye artırımı ve ortak satışı",
       "market": "Ana Pazar",
       "broker": "Global Menkul Değerler A.Ş. ",
-      "listing_date": "2026-02-11T00:00:00"
+      "listing_date": "2026-02-11T00:00:00",
+      "year": 2026
     },
     {
       "company": "ATA TURİZM İŞLETMECİLİK TAŞIMACILIK MADENCİLİK KUYUMCULUK SANAYİ VE DIŞ TİCARET A.Ş.",
@@ -102,7 +676,8 @@
       "method": "Sermaye artırımı ve ortak satışı",
       "market": "Yıldız Pazar",
       "broker": "Tera Yatırım Menkul Değerler A.Ş.",
-      "listing_date": "2026-02-19T00:00:00"
+      "listing_date": "2026-02-19T00:00:00",
+      "year": 2026
     },
     {
       "company": "EMPA ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
@@ -112,7 +687,8 @@
       "method": "Sermaye artırımı ve ortak satışı",
       "market": "Ana Pazar",
       "broker": "Halk Yatırım Menkul Değerler A.Ş. ",
-      "listing_date": "2026-02-26T00:00:00"
+      "listing_date": "2026-02-26T00:00:00",
+      "year": 2026
     },
     {
       "company": "GENTAŞ KİMYA SANAYİ VE TİCARET PAZARLAMA A.Ş.",
@@ -122,7 +698,8 @@
       "method": "Sermaye artırımı ve ortak satışı",
       "market": "Ana Pazar",
       "broker": "Deniz Yatırım Menkul Kıymetler A.Ş.",
-      "listing_date": "2026-03-06T00:00:00"
+      "listing_date": "2026-03-06T00:00:00",
+      "year": 2026
     },
     {
       "company": "SAVUR GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
@@ -132,7 +709,8 @@
       "method": "Sermaye artırımı ve ortak satışı",
       "market": "Ana Pazar",
       "broker": "Tera Yatırım Menkul Değerler A.Ş.",
-      "listing_date": "2026-03-06T00:00:00"
+      "listing_date": "2026-03-06T00:00:00",
+      "year": 2026
     },
     {
       "company": "LUXERA GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
@@ -142,7 +720,8 @@
       "method": "Sermaye artırımı ve ortak satışı",
       "market": "Ana Pazar",
       "broker": "Tera Yatırım Menkul Değerler A.Ş.",
-      "listing_date": "2026-03-10T00:00:00"
+      "listing_date": "2026-03-10T00:00:00",
+      "year": 2026
     },
     {
       "company": "METROPAL KURUMSAL HİZMETLER A.Ş.",
@@ -152,7 +731,8 @@
       "method": "Sermaye artırımı ve ortak satışı",
       "market": "Ana Pazar",
       "broker": "Tera Yatırım Menkul Değerler A.Ş.",
-      "listing_date": "2026-03-11T00:00:00"
+      "listing_date": "2026-03-11T00:00:00",
+      "year": 2026
     },
     {
       "company": "AĞAOĞLU AVRASYA GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
@@ -162,7 +742,8 @@
       "method": "Sermaye artırımı ve ortak satışı",
       "market": "Yıldız Pazar",
       "broker": "İnfo Yatırım Menkul Değerler A.Ş. , Vakıf Yatırım Menkul Değerler A.Ş.",
-      "listing_date": "2026-04-09T00:00:00"
+      "listing_date": "2026-04-09T00:00:00",
+      "year": 2026
     },
     {
       "company": "EKİNCİLER DEMİR VE ÇELİK SANAYİ A.Ş.",
@@ -172,7 +753,8 @@
       "method": "Sermaye artırımı ve ortak satışı",
       "market": "Yıldız Pazar",
       "broker": "A1 Capital Menkul Değerler A.Ş.",
-      "listing_date": "2026-05-22T00:00:00"
+      "listing_date": "2026-05-22T00:00:00",
+      "year": 2026
     },
     {
       "company": "BETA ENERJİ VE TEKNOLOJİ A.Ş.",
@@ -182,7 +764,8 @@
       "method": "Sermaye artırımı ve ortak satışı",
       "market": "Yıldız Pazar",
       "broker": "Türkiye Sınai Kalkınma Bankası A.Ş.",
-      "listing_date": "2026-07-01T00:00:00"
+      "listing_date": "2026-07-01T00:00:00",
+      "year": 2026
     },
     {
       "company": "ORZAKS İLAÇ VE KİMYA SANAYİ TİCARET A.Ş.",
@@ -192,7 +775,8 @@
       "method": "Sermaye artırımı ve ortak satışı",
       "market": "Yıldız Pazar",
       "broker": "İnfo Yatırım Menkul Değerler A.Ş.",
-      "listing_date": "2026-07-07T00:00:00"
+      "listing_date": "2026-07-07T00:00:00",
+      "year": 2026
     }
   ]
 }
