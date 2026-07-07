@@ -1,0 +1,21 @@
+name: Halka Arz Güncelle
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Python sürümünü hazırla
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Python çalışıyor mu?
+        run: |
+          python --version
+          echo "Workflow başarılı"
