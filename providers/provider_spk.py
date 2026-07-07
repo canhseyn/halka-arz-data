@@ -10,32 +10,35 @@ class SpkProvider(Provider):
 
     def get_ipos(self):
 
-        year = datetime.now().year
-
-        response = requests.get(
-            self.BASE_URL,
-            params={"yil": year},
-            timeout=30
-        )
-
-        response.raise_for_status()
-
-        records = response.json()
-
         completed = []
 
-        for item in records:
+        current_year = datetime.now().year
 
-            completed.append({
-                "company": item.get("sirketUnvani"),
-                "code": item.get("borsaKodu"),
-                "price": item.get("halkaArzFiyatiTl"),
-                "ratio": item.get("halkaArzOrani"),
-                "method": item.get("halkaArzSekli"),
-                "market": item.get("ilkIslemGorduguPazar"),
-                "broker": item.get("halkaArzaAracilikEdenKurum"),
-                "listing_date": item.get("borsadaIslemGormeTarihi"),
-            })
+        for year in range(current_year - 2, current_year + 1):
+
+            response = requests.get(
+                self.BASE_URL,
+                params={"yil": year},
+                timeout=30
+            )
+
+            response.raise_for_status()
+
+            records = response.json()
+
+            for item in records:
+
+                completed.append({
+                    "company": item.get("sirketUnvani"),
+                    "code": item.get("borsaKodu"),
+                    "price": item.get("halkaArzFiyatiTl"),
+                    "ratio": item.get("halkaArzOrani"),
+                    "method": item.get("halkaArzSekli"),
+                    "market": item.get("ilkIslemGorduguPazar"),
+                    "broker": item.get("halkaArzaAracilikEdenKurum"),
+                    "listing_date": item.get("borsadaIslemGormeTarihi"),
+                    "year": year
+                })
 
         return {
             "active": [],
