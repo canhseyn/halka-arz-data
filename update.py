@@ -16,9 +16,12 @@ stats = {
     "upcoming_count": len(manual["upcoming"])
 }
 
+last_ipo = completed[-1] if completed else {}
+
 data = {
     "updated": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
     "stats": stats,
+    "last_ipo": last_ipo,
     "active": manual["active"],
     "upcoming": manual["upcoming"],
     "completed": completed
